@@ -1,0 +1,57 @@
+item_id,company_name,item_name,protein_option,price,description,added_date,last_modified_date,discontinued_date
+1,Sweetgreen,Featured,Elote Bowl,$13.45 — 615 CAL,"Warm quinoa, arugula, cilantro, shredded cabbage, tomato, tortilla chips, sunflower seeds, goat cheese, roasted corn + peppers, lime cilantro jalapeno vinaigrette",2023-09-28,2023-09-28,none
+2,Sweetgreen,Featured,Italian Chopped,$13.95 — 390 CAL,"Chopped romaine, shredded kale, cucumber, red onion, chickpeas, spicy banana peppers, shaved parmesan, heirloom tomatoes, salami, red wine vinaigrette",2023-09-28,2023-09-28,none
+3,Sweetgreen,Featured,BBQ Chicken Salad,$13.45 — 475 CAL,"Chopped romaine, shredded kale, cilantro, red onion, shredded cabbage, tomato, tortilla chips, apples, blackened chicken, green goddess ranch, honey bbq sauce",2023-09-28,2023-09-28,none
+4,Sweetgreen,Featured,Charcuterie Cobb,$13.95 — 550 CAL,"Chopped romaine, spring mix, red onion, toasted almonds, tomato, hard boiled egg, blue cheese, salami, balsamic vinaigrette",2023-09-28,2023-09-28,none
+5,Sweetgreen,Featured,The Reneé Rapp Bowl,$12.45 — 295 CAL,"Spring mix, cilantro, cucumber, red onion, shredded cabbage, spicy broccoli, tomato, roasted tofu, spicy cashew dressing",2023-09-28,2023-09-28,none
+6,Sweetgreen,Featured,Hot Honey Chicken Plate,$14.45 — 750 CAL,"Warm quinoa, toasted almonds, blackened chicken, hot roasted sweet potatoes, kale-cabbage slaw, hot honey sauce",2023-09-28,2023-09-28,none
+7,Sweetgreen,Featured,Miso Roasted Corn Bowl,$13.95 — 605 CAL,"Shredded kale, warm wild rice, basil, shredded cabbage, toasted almonds, raw carrots, roasted corn + peppers, blackened chicken, miso sesame ginger dressing",2023-09-28,2023-09-28,none
+8,Sweetgreen,Warm Bowls,Crispy Rice Bowl,$13.45 — 600 CAL,"Arugula, warm wild rice, cilantro, cucumber, shredded cabbage, toasted almonds, crispy rice, raw carrots, blackened chicken, fresh lime squeeze, spicy cashew dressing",2023-09-28,2023-09-28,none
+9,Sweetgreen,Warm Bowls,Shroomami,$11.95 — 595 CAL,"Shredded kale, warm wild rice, basil, cucumber, raw beet, sunflower seeds, warm portobello mix, roasted tofu, miso sesame ginger dressing",2023-09-28,2023-09-28,none
+10,Sweetgreen,Warm Bowls,Garlic Chili Shrimp Bowl,$13.95 — 400 CAL,"Shredded kale, warm wild rice, red onion, shredded cabbage, raw pecans, apples, fresh herb mix, raw carrots, roasted shrimp, fresh lime squeeze, nuoc cham vinaigrette",2023-09-28,2023-09-28,none
+11,Sweetgreen,Warm Bowls,Chicken Tostada,$12.45 — 625 CAL,"Warm quinoa, baby spinach, cilantro, tomato, tortilla chips, raw carrots, goat cheese, blackened chicken, lime cilantro jalapeno vinaigrette, sweetgreen hot sauce",2023-09-28,2023-09-28,none
+12,Sweetgreen,Warm Bowls,Harvest Bowl,$12.95 — 695 CAL,"Shredded kale, warm wild rice, roasted sweet potato, raw pecans, apples, goat cheese, roasted chicken, balsamic vinaigrette",2023-09-28,2023-09-28,none
+13,Sweetgreen,Warm Bowls,Chicken Pesto Parm,$12.95 — 525 CAL,"Warm quinoa, baby spinach, spicy broccoli, tomato, za'atar breadcrumbs, roasted chicken, shaved parmesan, pesto vinaigrette, sweetgreen hot sauce",2023-09-28,2023-09-28,none
+14,Sweetgreen,Salads,Kale Caesar,$11.95 — 405 CAL,"Chopped romaine, shredded kale, tomato, parmesan crisp, roasted chicken, shaved parmesan, caesar dressing, fresh lime squeeze",2023-09-28,2023-09-28,none
+15,Sweetgreen,Salads,Guacamole Greens,$12.95 — 515 CAL,"Chopped romaine, spring mix, red onion, shredded cabbage, tomato, tortilla chips, avocado, roasted chicken, fresh lime squeeze, lime cilantro jalapeno vinaigrette",2023-09-28,2023-09-28,none
+16,Sweetgreen,Salads,Super Green Goddess,$9.95 — 490 CAL,"Shredded kale, baby spinach, raw beet, roasted sweet potato, shredded cabbage, spicy broccoli, toasted almonds, lentils, chickpeas, raw carrots, green goddess ranch",2023-09-28,2023-09-28,none
+17,Sweetgreen,Salads,Buffalo Chicken Bowl,$13.45 — 475 CAL,"Chopped romaine, shredded kale, cilantro, tomato, za'atar breadcrumbs, chopped pickles, blue cheese, blackened chicken, caesar dressing, sweetgreen hot sauce",2023-09-28,2023-09-28,none
+18,Sweetgreen,Salads,Hummus Crunch Salad,$12.45 — 380 CAL,"Chopped romaine, shredded kale, basil, cucumber, red onion, shredded cabbage, tomato, za'atar breadcrumbs, chickpeas, olives, hummus, pesto vinaigrette",2023-09-28,2023-09-28,none
+19,Sweetgreen,Salads,Garden Cobb,$12.95 — 675 CAL,"Chopped romaine, spring mix, red onion, roasted sweet potato, toasted almonds, tomato, avocado, hard boiled egg, blue cheese, balsamic vinaigrette",2023-09-28,2023-09-28,none
+20,Sweetgreen,Kid's Meals,Ranchy Chicken + Rice,$7.95 — 515 CAL,"Warm wild rice, cucumber, parmesan crisp, roasted chicken, green goddess ranch",2023-09-28,2023-09-28,none
+21,Sweetgreen,Kid's Meals,Mini Mezze,$7.95 — 275 CAL,"Cucumber, tortilla chips, hummus, roasted chicken",2023-09-28,2023-09-28,none
+22,Sweetgreen,Kid's Meals,Little Harvest,$7.95 — 430 CAL,"Apples, sunflower seeds, hot roasted sweet potatoes, roasted chicken, balsamic vinaigrette",2023-09-28,2023-09-28,none
+23,Sweetgreen,Kid's Meals,Honest Kids Apple Juice,$1.75 — 35 CAL,Organic juice with no added sugar or artificial sweeteners.,2023-09-28,2023-09-28,none
+24,Sweetgreen,Sides,SG X Siete: Green Goddess Ranch Potato Chips,$2.50 — 220 CAL,"Kettle-cooked and inspired by our Green Goddess Ranch dressing flavor, made with avocado oil and a hint of poblano.",2023-09-28,2023-09-28,none
+25,Sweetgreen,Sides,Siete Sea Salt Potato Chips,$2.50 — 210 CAL,"Kettle-cooked and made with sea salt and avocado oil for a light, salty crunch.",2023-09-28,2023-09-28,none
+26,Sweetgreen,Sides,Hummus + Focaccia,$3.95 — 290 CAL,"Locally baked rosemary focaccia breadsticks paired with smooth hummus
+
+*Contains common allergens, including gluten. More info at sweetgreen.com/menu",2023-09-28,2023-09-28,none
+27,Sweetgreen,Sides,Roasted Sweet Potatoes + Green Goddess Ranch,$3.95 — 315 CAL,"Hot roasted sweet potatoes, green goddess ranch
+
+*No Modifications (Yet!). Contains Common Allergens, Including Dairy And Eggs. More Info At Sweetgreen.Com/Menu",2023-09-28,2023-09-28,none
+28,Sweetgreen,Sides,Roasted Sweet Potatoes + Hot Honey Mustard,$3.95 — 290 CAL,"Hot roasted sweet potatoes, hot honey sauce
+
+*No Modifications (Yet!). Contains Common Allergens. More info at sweetgreen.com/menu",2023-09-28,2023-09-28,none
+29,Sweetgreen,Sides,Rosemary Focaccia,$2.25 — 230 CAL,"Locally sourced near you.
+
+*Contains Common Allergens, Including Gluten. More Info At Sweetgreen.Com/Menu",2023-09-28,2023-09-28,none
+30,Sweetgreen,Dessert,Crispy Rice Treat,$2.95 — 190 CAL,"Crispy organic brown rice, quinoa, and puffed millet—naturally sweetened with honey date caramel and just 6g of sugar.
+
+*This product is gluten-free but contains common allergens, including dairy and tree nuts. More info at sweetgreen.com/menu",2023-09-28,2023-09-28,none
+31,Sweetgreen,Dessert,Hu Salty Dark Chocolate Bar,$5.95 — 380 CAL,"Organic dark chocolate with a pinch of sea salt and no refined sugar.
+
+*This product is gluten-free and vegan but contains coconut. May contain other tree nuts & dairy. More info at sweetgreen.com/menu.",2023-09-28,2023-09-28,none
+32,Sweetgreen,Dessert,Hu Cashews + Vanilla Bean Hunks,$2.95 — 170 CAL,"Organic snackable dark chocolate covered cashews with a pinch of sea salt and no refined sugar.
+
+*This product is gluten-free and vegan but contains cashew & coconut. May contain dairy, peanuts & other tree nuts. More info at sweetgreen.com/menu.",2023-09-28,2023-09-28,none
+33,Sweetgreen,Beverages,Sparkling Water,$2.75 — 0 CAL,In an eco-friendly aluminum bottle for plastic free oceans,2023-09-28,2023-09-28,none
+34,Sweetgreen,Beverages,Still Water,$2.50 — 0 CAL,In an eco-friendly aluminum bottle for plastic free oceans,2023-09-28,2023-09-28,none
+35,Sweetgreen,Beverages,OLIPOP Vintage Cola,$3.50 — 35 CAL,"Notes of vanilla, cinnamon and caramel create a classic old-fashioned flavor made with plant-based, natural ingredients and just 2g of sugar.",2023-09-28,2023-09-28,none
+36,Sweetgreen,Beverages,OLIPOP Lemon Lime Soda,$3.50 — 50 CAL,"Like a sweet slice of key lime pie with a fresh squeeze of lemon, this fresh new twist on a classic flavor has only 4g of sugar.",2023-09-28,2023-09-28,none
+37,Sweetgreen,Beverages,Rowdy Mermaid Strawberry Tonic,$4.95 — 45 CAL,"Made with detoxifying dandelion, prebiotic raw chicory, and tart strawberries (9g sugar)",2023-09-28,2023-09-28,none
+38,Sweetgreen,Beverages,Rowdy Mermaid Savory Peach,$4.95 — 45 CAL,An immune-booster brewed with peaches and thyme (9g sugar),2023-09-28,2023-09-28,none
+39,Sweetgreen,Beverages,Jasmine Green Tea,$3.50 — 0 CAL,"Antioxidant rich, with organic soba and wild grown yaupon (0g sugar)",2023-09-28,2023-09-28,none
+40,Sweetgreen,Beverages,Hibiscus Clover Tea,$3.50 — 0 CAL,"A refreshing blend with crimson clover, mixed berries and hibiscus (0g sugar)",2023-09-28,2023-09-28,none
+41,Sweetgreen,Beverages,Spindrift Grapefruit,$2.95 — 15 CAL,Keep it fresh with Spindrift grapefruit seltzer (3g sugar),2023-09-28,2023-09-28,none
+42,Sweetgreen,Beverages,Spindrift Raspberry Lime,$2.95 — 10 CAL,Keep it fresh with Spindrift raspberry lime seltzer (2g sugar),2023-09-28,2023-09-28,none
